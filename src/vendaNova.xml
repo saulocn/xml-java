@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<venda>
+	<formaDePagamento>Dinheiro</formaDePagamento>
+	<produtos>
+		<produto>
+			<nome>Caneca de Java</nome>
+			<preco>35.0</preco>
+		</produto>
+		<produto>
+			<nome>Livro MEAN Stack</nome>
+			<preco>70.35</preco>
+		</produto>
+		<produto>
+			<nome>Livro Hibernate</nome>
+			<preco>43.4</preco>
+		</produto>
+	</produtos>
+</venda>
